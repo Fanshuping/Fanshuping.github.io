@@ -575,8 +575,8 @@ img::-moz-selection {
   .panel-inverted {
     font-weight: 100;
     text-align: center;
-    color: #FFF;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4); }
+    color: #85b710;
+    text-shadow: 0 1px 1px #ec75of; }
   .panel-inverted a {
     color: #FFF; }
 
